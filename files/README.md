@@ -1,41 +1,6 @@
-# KrushiMitra – Smart Farming Assistant
 
-## Project Structure
 
-```
-krushimitra/
-├── index.html    — Main app UI (HTML + CSS)
-├── data.js       — All 36 districts data, pest zones, translations
-├── app.js        — Application logic
-└── README.md     — This file
-```
-
----
-
-## VSCode Setup and Run
-
-### Step 1 — Install VSCode
-Download from: https://code.visualstudio.com/
-
-### Step 2 — Install Live Server Extension
-1. Open VSCode
-2. Press Ctrl+Shift+X (Extensions)
-3. Search: Live Server
-4. Install by Ritwick Dey
-
-### Step 3 — Open Project
-1. File > Open Folder > krushimitra/
-2. All files appear in the sidebar
-
-### Step 4 — Run
-1. Right-click index.html in the sidebar
-2. Select "Open with Live Server"
-3. Browser opens at http://127.0.0.1:5500/index.html
-4. Any file change auto-reloads the browser
-
----
-
-## Features
+Features
 
 - All 36 Maharashtra districts with real agricultural data
 - Updated district names: Ahilyanagar (not Ahmednagar), Chhatrapati Sambhajinagar (not Aurangabad), Dharashiv (not Osmanabad)
@@ -48,7 +13,7 @@ Download from: https://code.visualstudio.com/
 
 ---
 
-## All 36 Districts
+All 36 Districts
 
 Ahilyanagar, Akola, Amravati, Beed, Bhandara, Buldhana, Chandrapur,
 Chhatrapati Sambhajinagar, Dharashiv, Dhule, Gadchiroli, Gondia, Hingoli,
@@ -58,7 +23,7 @@ Sangli, Satara, Sindhudurg, Solapur, Thane, Wardha, Washim, Yavatmal
 
 ---
 
-## Helplines
+Helplines
 
 - Kisan Call Centre: 1800-180-1551 (Toll Free)
 - MRSAC Agri: mahapocra.gov.in
